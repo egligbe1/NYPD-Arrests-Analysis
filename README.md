@@ -1,4 +1,4 @@
-# NYPD Arrests Analysis 2006-2023
+# NYPD Arrests Analysis (2006-2023)
 
 Drilled down into NYC arrest data to identify yearly patterns and trends of arrests effected by the NYPD from 2006-2023.
 
